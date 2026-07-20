@@ -45,7 +45,7 @@ But also to clean raw data, perform exploratory data analysis (EDA) using **SQL 
 
 ## Repository Structure
 * `/Data`: The 2 main Excel files (`CovidDeaths.xlsx`, `CovidVaccinations.xlsx`) and exported SQL tables (`Tableau Table 1` through `4`) used for Tableau visualizations.
-* `/SQL`: `.sql` Scripts containing full data exploration queries and visualization extract queries.
+* `/SQL`: The `.sql` scripts containing full data exploration queries and visualization extract queries.
 * `/Tableau Visualization`: File of my Tableau Viz Dashboard.
 
 ## Connect with me!
